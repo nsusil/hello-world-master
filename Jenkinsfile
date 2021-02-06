@@ -1,4 +1,4 @@
-currentBuild.displayname="UAPI_"+currentBuild.number
+currentBuild.displayName = "UAPI_"+currentBuild.number
 pipeline{
     
     agent any
